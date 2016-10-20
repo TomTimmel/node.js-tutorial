@@ -1,0 +1,24 @@
+{
+  "name": "node.js-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomTimmel/node.js-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomTimmel/node.js-tutorial/issues"
+  },
+  "homepage": "https://github.com/TomTimmel/node.js-tutorial#readme",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "fs": "0.0.1-security"
+  }
+}
